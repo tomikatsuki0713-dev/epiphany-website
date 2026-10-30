@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const t=document.querySelector('.life-gallery-track');[...t.children].forEach(x=>t.appendChild(x.cloneNode(true)));});
