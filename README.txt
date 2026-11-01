@@ -4,7 +4,7 @@
 - index.html
 - styles.css
 - script.js
-- assets/ 画像
+-  画像
 
 公開時は、このフォルダの中身をそのままWebホスティングへアップロードしてください。
 トップページは index.html です。
